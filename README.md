@@ -1,4 +1,4 @@
-# mall-customer-segmentation
+# mall-customer-clustering
 Analyzing and segmenting mall customers based on their annual incomes and spending scores
 
 ## Dataset
@@ -11,8 +11,7 @@ Analyzing and segmenting mall customers based on their annual incomes and spendi
 - Matplotlib, Seaborn
 - Pandas
 - Numpy
-- Scikit-learn
-
+- Scikit-learn (Kmeans, DBSCAN, PCA, Linear Regression, IsolationForest. DecisionTreeRegressor, MSE, R2 Score, Silhouette Score)
 ## Workflow
 - Data Cleaning & Preprocessing
 - EDA
